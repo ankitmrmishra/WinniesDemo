@@ -20,7 +20,7 @@ export function About() {
         <h2
           className={`text-3xl italic md:text-7xl font-heading mb-6 ${playfair.className}`}
         >
-          About Winnies
+          Winnies Holiday Resort & Spa
         </h2>
         <p className="text-lg mb-8 max-w-2xl mx-auto font-body">
           Nestled in the serene hills of Kasauli, Winnies Resort offers a
